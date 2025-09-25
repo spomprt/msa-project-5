@@ -1,1 +1,9 @@
 .idea
+
+task-1/project/logs
+task-1/project/data/processed
+
+# Environment files with sensitive data
+.env
+env.local
+*.env
