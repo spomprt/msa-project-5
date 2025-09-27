@@ -3,6 +3,9 @@
 task-1/project/logs
 task-1/project/data/processed
 
+task-3/results/postgres_data
+task-3/csv-exporter/target
+
 # Environment files with sensitive data
 .env
 env.local
